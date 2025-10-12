@@ -24,7 +24,7 @@ error.html
     - Configured with website hosting settings and public read access.
 
 - **CloudFront Distribution**
-    - Distributes the website globally with low latency
+    - Distributes the website globally with low latency.
 
 - **Terraform Outputs**
     - Displays both the S3 website endpoint and CloudFront distribution domain after deployment.
@@ -80,7 +80,9 @@ eu-north-1
 
 # Author
 **Alishba Zehra**
+
 Cloud Programming Project
+
 11 October, 2025
 
 #### Note: 
